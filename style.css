@@ -18,12 +18,17 @@ header, section {
 
 .logo{
     width: 120px;
+    padding: 10px;
 }
 
 #video {
-left: 679px;
+left: 680px;
 }
 
 section{
     top:50px;
+}
+
+.thumb{
+    width: 300px;
 }
