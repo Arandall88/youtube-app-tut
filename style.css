@@ -10,13 +10,20 @@ body {
 }
 
 
-header{
+header, section {
     position: fixed;
     text-align: center;
     width: 560px;
-    
 }
 
 .logo{
     width: 120px;
+}
+
+#video {
+left: 679px;
+}
+
+section{
+    top:50px;
 }
